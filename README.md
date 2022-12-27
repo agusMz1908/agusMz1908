@@ -25,7 +25,7 @@
 const agusMz1908 = {
   techonlogy: Web,
   passions: [Web Development, Motorsports],
-  languages: [JavaScript, TypeScript, FrontEnd Development],
+  languages: [JavaScript, TypeScript, HTML, CSS],
   tools: [Figma, Express, Tailwind, Node Js, MySql, MySqlWorkbench, Postgress, MongoDB, MongoDBCompass, React],
   learning: [English, Backend Development]
 }
