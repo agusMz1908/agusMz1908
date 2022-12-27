@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning English, TypeScript, Backend Development
 </div>
 <div align="center">
-- 👨‍💻 All of my projects are available at [Coming Soon!](Coming Soon!)
+- 👨‍💻 All of my projects are available at Coming Soon...
 </div>
 <div align="center">
 - 📫 How to reach me agus.muniz1997@gmail.com
