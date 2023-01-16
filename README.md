@@ -58,8 +58,8 @@ const agusMz1908 = {
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusmz1908&show_icons=true&locale=en&layout=compact" alt="agusmz1908" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agusmz1908&show_icons=true&locale=en" alt="agusmz1908" /></p>
 
+//<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusmz1908&show_icons=true&locale=en&layout=compact" alt="agusmz1908" /></p>
+//<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agusmz1908&show_icons=true&locale=en" alt="agusmz1908" /></p>
 
 
