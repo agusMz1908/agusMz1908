@@ -31,7 +31,14 @@ const agusMz1908 = {
 }
 ```
 
-
+<div align="center">
+<h2 align="center">Currently Working on:</h2>
+<p align="center">
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=StockPos-Backend&theme=dark)](https://github.com/agusMz1908/StockPos-Backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=StockPos&theme=dark)](https://github.com/agusMz1908/StockPos)
+  
+</div>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -41,8 +48,7 @@ const agusMz1908 = {
 <a href="https://instagram.com/https://www.instagram.com/aagus.mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aagus.mg" height="30" width="40" /></a>
 <a href="mailto:agus.muniz@gmail.com"> <img align="center" src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/1316989e5635f9e67150e6db0b5c1c7fff422d2d/gmail-svgrepo-com.svg" height="30" width="40"/></a>
 </div>
-
-
+  
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
