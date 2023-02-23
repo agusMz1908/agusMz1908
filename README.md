@@ -35,7 +35,7 @@ const agusMz1908 = {
 <h2 align="center">Currently Working on:</h2>
 <p align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=StockPos-Backend&theme=dark)](https://github.com/agusMz1908/StockPos-Backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=StockPosBack-Sequelize&theme=dark)](https://github.com/agusMz1908/StockPosBack-Sequelize)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=StockPos-Front&theme=dark)](https://github.com/agusMz1908/StockPos-Front)
   
 </div>
