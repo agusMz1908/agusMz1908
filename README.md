@@ -36,7 +36,7 @@ const agusMz1908 = {
 <p align="center">
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=Pos-Backend-Sqlz&theme=dark)](https://github.com/agusMz1908/Pos-Backend-Sqlz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=pos_ims_api&theme=dark)](https://github.com/https://github.com/salvaborit/pos_ims_api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=pos_ims_api&theme=dark)](https://github.com/https://github.com/salvaborit/pos_ims_api)
   
 </div>
 
