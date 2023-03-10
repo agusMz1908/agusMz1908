@@ -34,8 +34,9 @@ const agusMz1908 = {
 <div align="center">
 <h2 align="center">Currently Working on:</h2>
 <p align="center">
+  https://github.com/agusMz1908/pos_ims_app
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=Pos-Backend-Sqlz&theme=dark)](https://github.com/agusMz1908/Pos-Backend-Sqlz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=agusMz1908/pos_ims_app&theme=dark)(https://github.com/agusMz1908/agusMz1908/pos_ims_app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=pos_ims_api&theme=dark)](https://github.com/https://github.com/salvaborit/pos_ims_api)
   
 </div>
