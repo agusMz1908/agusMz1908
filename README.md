@@ -44,7 +44,7 @@ const agusMz1908 = {
 <p align="center">
 
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/agustin-muniz-02577220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-muniz-02577220a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agustin-muniz-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-muniz-g/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/aagus.mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aagus.mg" height="30" width="40" /></a>
 <a href="mailto:agus.muniz@gmail.com"> <img align="center" src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/1316989e5635f9e67150e6db0b5c1c7fff422d2d/gmail-svgrepo-com.svg" height="30" width="40"/></a>
 </div>
