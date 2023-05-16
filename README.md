@@ -35,7 +35,7 @@ const agusMz1908 = {
 <h2 align="center">Currently Working on:</h2>
 <p align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=pos_ims_app&theme=dark)](https://github.com/agusMz1908/pos_ims_app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=blogCore&theme=dark)](https://github.com/agusMz1908/blogCore)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=ContactosCRUD&theme=dark)](https://github.com/agusMz1908/ContactosCRUD)
   
 </div>
