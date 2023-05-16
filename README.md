@@ -61,7 +61,8 @@ const agusMz1908 = {
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/main/Visual_Studio_Code_1.35_icon.svg.webp" alt="code" width="40" height="40"/></a>
- <a href="https://visualstudio.microsoft.com/es" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/main/Visual_Studio_Icon_2019.svg.png" alt="code" width="40" height="40"/></a></p>
+<a href="https://visualstudio.microsoft.com/es" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/main/Visual_Studio_Icon_2019.svg.png" alt="code" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/main/microsoft-sql-server-sql-server-management-studio-database-server-microsoft.jpg" alt="code" width="40" height="40"/></a></p>
 
 <!---
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusmz1908&show_icons=true&locale=en&layout=compact" alt="agusmz1908" /></p>
