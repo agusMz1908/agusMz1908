@@ -24,7 +24,7 @@
 ```js
 const agusMz1908 = {
   techonlogy: Web,
-  passions: [Web Development, Motorsports],
+  passions: [Web Development, Motorsports, Animes],
   languages: [JavaScript, TypeScript, C#],
   tools: [React, Tailwind, Express, NodeJs, MySql, MySqlWorkbench, MySQL Server, SQLServer Management Studio, Sequelize, VisualStudio Code, Visual Studio],
   learning: [English, C#, Backend Development]
