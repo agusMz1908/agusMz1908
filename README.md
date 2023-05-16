@@ -25,9 +25,9 @@
 const agusMz1908 = {
   techonlogy: Web,
   passions: [Web Development, Motorsports],
-  languages: [JavaScript, HTML, CSS],
-  tools: [Express, Tailwind, Node Js, MySql, MySqlWorkbench, MongoDB, React, Sequelize],
-  learning: [English, TypeScript, Backend Development]
+  languages: [JavaScript, TypeScript, C#],
+  tools: [Express, Tailwind, Node Js, MySql, MySqlWorkbench, MongoDB, React, Sequelize, VisualStudio Code, Visual Studio],
+  learning: [English, C#, Backend Development]
 }
 ```
 
@@ -36,7 +36,7 @@ const agusMz1908 = {
 <p align="center">
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=pos_ims_app&theme=dark)](https://github.com/agusMz1908/pos_ims_app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=salvaborit&repo=pos_ims_api&theme=dark)](https://github.com/https://github.com/salvaborit/pos_ims_api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=ContactosCRUD&theme=dark)](https://github.com/agusMz1908/ContactosCRUD)
   
 </div>
 
@@ -55,6 +55,7 @@ const agusMz1908 = {
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/c974ceee9cd253dd206ac4123a33dac8f054aa10/icons8-express-js.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
