@@ -30,16 +30,6 @@ const agusMz1908 = {
   learning: [English, C#, Backend Development]
 }
 ```
-
-<div align="center">
-<h2 align="center">Currently Working on:</h2>
-<p align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=blogCore&theme=dark)](https://github.com/agusMz1908/blogCore)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=agusMz1908&repo=ContactosCRUD&theme=dark)](https://github.com/agusMz1908/ContactosCRUD)
-  
-</div>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 
