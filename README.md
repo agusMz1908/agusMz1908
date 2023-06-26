@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=agusmz1908&label=Profile%20views&color=0e75b6&style=flat" alt="agusmz1908" /> </p>
 
 <div align="center">
-- 🌱 I’m currently learning: English, TypeScript, Backend Development
+- 🌱 I’m currently learning: English, C# MVC, .NET 7
 </div>
 <div align="center">
 - 👨‍💻 All of my projects are available at: Coming Soon...
