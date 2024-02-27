@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agustin Muniz</h1>
 <h3 align="center">A passionate full stack web developer from Uruguay 🇺🇾</h3>
 
-
-
-<h2 align="center">About me :satisfied: </h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=agusmz1908&label=Profile%20views&color=0e75b6&style=flat" alt="agusmz1908" /> </p>
-
-<div align="center">
-- 🌱 I’m currently learning: English, C#, .NET Framework
-</div>
-<div align="center">
-- 👨‍💻 All of my projects are available at: Coming Soon...
-</div>
-<div align="center">
-- 📫 How to reach me: agus.muniz1997@gmail.com
-</div>
-
-
-
 <h2 align="center">About me in code :satisfied: </h2>
 
 ```js
@@ -30,14 +12,6 @@ const agusMz1908 = {
   learning: [English, C#, Backend Development]
 }
 ```
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-
-<div align="center">
-<a href="https://www.linkedin.com/in/agustin-muniz-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-muniz-g/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/aagus.mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aagus.mg" height="30" width="40" /></a>
-<a href="mailto:agus.muniz@gmail.com"> <img align="center" src="https://raw.githubusercontent.com/agusMz1908/agusMz1908/1316989e5635f9e67150e6db0b5c1c7fff422d2d/gmail-svgrepo-com.svg" height="30" width="40"/></a>
-</div>
   
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
